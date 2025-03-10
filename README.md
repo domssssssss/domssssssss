@@ -2,7 +2,7 @@
 
 # **Domenic Anteja**  
 
-Actively expanding a professional portfolio on **[GitHub](https://github.com/domssssssss)**, **[LinkedIn](www.linkedin.com/in/domenic-anteja-87a08728a)**, and **[Upwork](https://www.upwork.com/freelancers/your-profile)**, specializing in **HTML, CSS, JavaScript, React**, and software development principles such as **OOP and SOLID**.
+Actively expanding a professional portfolio on **[GitHub](https://github.com/domssssssss)**, **[LinkedIn](www.linkedin.com/in/domenic-anteja-87a08728a)**, and **[Upwork](https://www.upwork.com/freelancers/~01b00eec5842716c9f?mp_source=share)**, specializing in **HTML, CSS, JavaScript, React**, and software development principles such as **OOP and SOLID**.
 
 </div>
 
@@ -33,7 +33,7 @@ Actively expanding a professional portfolio on **[GitHub](https://github.com/dom
     <a href="https://www.linkedin.com/in/domenic-anteja-87a08728a">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.upwork.com/freelancers/~0163ff2c97538eded6">
+    <a href="https://www.upwork.com/freelancers/~01b00eec5842716c9f?mp_source=share">
         <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
     </a>
     <a href="https://www.facebook.com/domenic.antejaii/">
