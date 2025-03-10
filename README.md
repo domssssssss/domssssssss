@@ -1,7 +1,7 @@
 <div align="center">
-# Domenic Anteja
+# Domenic Anteja</div>
 Actively expanding a professional portfolio on **[GitHub](https://github.com/domssssssss)**, **[LinkedIn](www.linkedin.com/in/domenic-anteja-87a08728a)**, and **[Upwork](https://www.upwork.com/freelancers/your-profile)**, specializing in **HTML, CSS, JavaScript, React**, and software development principles such as **OOP and SOLID**.
-</div>
+
 ---
 
 ## 🚀 Technologies and Tools
