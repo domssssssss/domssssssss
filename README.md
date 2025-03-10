@@ -2,7 +2,7 @@
 
 # **Domenic Anteja**  
 
-Actively expanding a professional portfolio on **[GitHub](https://github.com/domssssssss)**, **[LinkedIn](www.linkedin.com/in/domenic-anteja-87a08728a)**, and **[Upwork](https://www.upwork.com/freelancers/~01b00eec5842716c9f?mp_source=share)**, specializing in **HTML, CSS, JavaScript, React**, and software development principles such as **OOP and SOLID**.
+Actively expanding a professional portfolio on **[GitHub](https://github.com/domssssssss)**, **[LinkedIn](https://www.linkedin.com/in/domenic-anteja-87a08728a/)**, and **[Upwork](https://www.upwork.com/freelancers/~01b00eec5842716c9f?mp_source=share)**, specializing in **HTML, CSS, JavaScript, React**, and software development principles such as **OOP and SOLID**.
 
 </div>
 
