@@ -27,10 +27,16 @@ Actively expanding a professional portfolio on **[GitHub](https://github.com/dom
 
 
 ---
-<p align="center">
-## 📌 Other Portfolios/Platforms
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domenic-anteja-87a08728a)  
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/your-profile)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/domenic.antejaii/)
+## 📌 Other Portfolios/Platforms
+<p align="center">
+    <a href="https://www.linkedin.com/in/domenic-anteja-87a08728a">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.upwork.com/freelancers/~0163ff2c97538eded6">
+        <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+    </a>
+    <a href="https://www.facebook.com/domenic.antejaii/">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    </a>
 </p>
