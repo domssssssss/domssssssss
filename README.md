@@ -2,6 +2,15 @@
 # **Domenic Anteja**  </div>
 Actively expanding a professional portfolio on **[GitHub](https://github.com/domssssssss)**, **[LinkedIn](www.linkedin.com/in/domenic-anteja-87a08728a)**, and **[Upwork](https://www.upwork.com/freelancers/your-profile)**, specializing in **HTML, CSS, JavaScript, React**, and software development principles such as **OOP and SOLID**.
 
+<div align="center">
+
+# **Guiller Santos**  
+
+Actively expanding a professional portfolio on **GitHub, LinkedIn, and Upwork**, specializing in **C#, ASP.NET Core, Microsoft SQL Server, Blazor**, and software development principles such as **OOP and SOLID**.
+
+</div>
+
+---
 ---
 
 ## 🚀 Technologies and Tools
