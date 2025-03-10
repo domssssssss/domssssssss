@@ -13,7 +13,6 @@ Actively expanding a professional portfolio on **[GitHub](https://github.com/dom
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/jvitest/vitest/main/docs/public/favicon.svg" alt="Vitest" width="50" height="50"/>
 </p>
 
 
